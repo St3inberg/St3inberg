@@ -1,13 +1,13 @@
 # Hi there, I'm Stephen! 👋
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on my **Complete Easter Egg for COD zombies** (https://st3inberg.github.io/bo6-zombies-guide/),as well a java game where you collect cash under time (https://github.com/St3inberg/cash-collector)
-- 🌱 I’m currently learning more about backend architectures and database management and the Go language
-- ⚡ Fun fact: I just hit 169 contributions this year!
+- 🔭 **Current Projects:** - [BO6 Zombies Guide](https://st3inberg.github.io/bo6-zombies-guide/) — A complete Easter Egg guide.
+  - [Cash Collector](https://github.com/St3inberg/cash-collector) — A Java-based time-trial collection game.
+- 🌱 **Learning:** Currently diving into **Go (Golang)**, Backend Architectures, and Database Management.
+- ⚡ **Fun Fact:** I've hit **169 contributions** on GitHub so far this year!
 
 ### 🛠 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=js,python,html,css,git,mysql,react,c#,Ts)
-
+![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,go,cs,c,azure,docker,mysql,react,html,css,git)
 
 ### 📊 GitHub Stats
 <p align="left">
@@ -15,4 +15,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=St3inberg&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
-📫 How to reach me: (https://www.linkedin.com/in/stephen-stenberg-091232274/)
+---
+
+### 🤝 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-stenberg-091232274/)
