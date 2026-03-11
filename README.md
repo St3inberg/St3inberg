@@ -1,14 +1,15 @@
-# Hi there, I'm Stephen! 👋
+# Hi there, I'm Stephen! 👋 🐧
 
 ### 👨‍💻 About Me
-- 🔭 **Current Projects:** - [AI Human Finder](https://github.com/St3inberg/Ai-human-finder) — Computer vision / AI detection project.
+- 💻 **OS:** I work primarily on **Linux** as well as **WINDOWS**
+- 🔭 **Current Projects:** - [AI Human Finder](https://github.com/St3inberg/Ai-human-finder) — Computer vision / AI detection.
   - [BO6 Zombies Guide](https://st3inberg.github.io/bo6-zombies-guide/) — Complete Easter Egg guide.
-  - [Cash Collector](https://github.com/St3inberg/cash-collector) — Java-based time-trial collection game.
+  - [Cash Collector](https://github.com/St3inberg/cash-collector) — Java-based time-trial game.
 - 🌱 **Learning:** Diving deep into **Go (Golang)**, Backend Architectures, and Database Management.
 - ⚡ **Fun Fact:** I've hit **169 contributions** on GitHub so far this year!
 
-### 🛠 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,go,cs,c,azure,docker,mysql,react,html,css,git)
+### 🛠 Tech Stack & Tools
+![My Skills](https://skillicons.dev/icons?i=linux,bash,docker,azure,go,java,cs,c,python,js,ts,mysql,react,git)
 
 ### 📊 GitHub Stats
 <p align="left">
