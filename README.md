@@ -1,9 +1,10 @@
 # Hi there, I'm Stephen! 👋
 
 ### 👨‍💻 About Me
-- 🔭 **Current Projects:** - [BO6 Zombies Guide](https://st3inberg.github.io/bo6-zombies-guide/) — A complete Easter Egg guide.
-  - [Cash Collector](https://github.com/St3inberg/cash-collector) — A Java-based time-trial collection game.
-- 🌱 **Learning:** Currently diving into **Go (Golang)**, Backend Architectures, and Database Management.
+- 🔭 **Current Projects:** - [AI Human Finder](https://github.com/St3inberg/Ai-human-finder) — Computer vision / AI detection project.
+  - [BO6 Zombies Guide](https://st3inberg.github.io/bo6-zombies-guide/) — Complete Easter Egg guide.
+  - [Cash Collector](https://github.com/St3inberg/cash-collector) — Java-based time-trial collection game.
+- 🌱 **Learning:** Diving deep into **Go (Golang)**, Backend Architectures, and Database Management.
 - ⚡ **Fun Fact:** I've hit **169 contributions** on GitHub so far this year!
 
 ### 🛠 Tech Stack
