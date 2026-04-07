@@ -13,8 +13,8 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats-efhddsxqo-st3inbergs-projects.vercel.app/api?username=St3inberg&show_icons=true&theme=radical" alt="St3inberg's GitHub stats" />
-  <img src="https://github-readme-stats-efhddsxqo-st3inbergs-projects.vercel.app/api/top-langs/?username=St3inberg&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats-kohl-chi-91.vercel.app/api?username=St3inberg&show_icons=true&theme=radical" alt="St3inberg's GitHub stats" />
+  <img src="https://github-readme-stats-kohl-chi-91.vercel.app/api/top-langs/?username=St3inberg&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
