@@ -9,7 +9,9 @@
 - ⚡ **Fun Fact:** I've hit **169 contributions** on GitHub so far this year!
 
 ### 🛠 Tech Stack & Tools
-![My Skills](https://skillicons.dev/icons?i=linux,bash,docker,azure,go,java,cs,c,python,js,ts,mysql,react,git)
+<a>
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,azure,go,java,cs,c,python,js,ts,mysql,react,git" alt="My Skills" />
+</a>
 
 ### 📊 GitHub Stats
 <p align="left">
